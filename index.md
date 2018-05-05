@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Geneva based technical consultancy'
+landing-title: 'Technical consulting in Geneva'
 description: null
 image: null
 author: null
