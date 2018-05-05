@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consequat
+title: Mission and Vision
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
 ---
