@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: About
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Geneva Based Technical Consultant<br /> Expert in Robotics, Drones and Software Development'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
