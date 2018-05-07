@@ -2,7 +2,7 @@
 layout: post
 title: Pro bono consulting
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/pexels-photo-248833.jpeg
 nav-menu: true
 ---
 
