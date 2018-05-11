@@ -3,7 +3,7 @@ title: M.Sadowski Consulting
 subtitle: Robotics | Drones | Software
 email: contact@msadowski.ch
 description: Robotics, Drones and Software Development
-baseurl: "/msadowski.ch" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Mateusz Sadowski
 address_header: Mateusz Sadowski, c/o Impact Hub Geneva
