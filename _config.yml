@@ -6,7 +6,7 @@ description: Robotics, Drones and Software Development
 baseurl: "/msadowski.ch" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Mateusz Sadowski
-address_header: MSADOWSKI.CH, c/o Impact Hub Geneva
+address_header: Mateusz Sadowski, c/o Impact Hub Geneva
 street_address: 1 rue Fendt
 city: Geneva
 zip_code: 1201
@@ -15,7 +15,7 @@ country: Switzerland
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2 #6
 
 # social settings
 500px_url:
