@@ -3,6 +3,7 @@ layout: post
 title: Robotics
 description: Providing robotics consulting in Geneva and all around Europe
 image: assets/images/pic01.jpg
+exclude: false
 ---
 
 ## Robotics software design
