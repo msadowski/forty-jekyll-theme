@@ -56,7 +56,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<img src="assets/images/forest_0.jpg" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
