@@ -2,7 +2,7 @@
 layout: post
 title: Robotics
 description: Providing robotics consulting in Geneva and all around Europe
-image: assets/images/pic01.jpg
+image: assets/images/falcon_code_large.png
 exclude: false
 ---
 
