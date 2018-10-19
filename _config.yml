@@ -1,6 +1,6 @@
 # site settings
 title: M.Sadowski Consulting
-subtitle: Robotics | Drones | Software
+subtitle: Robotics | Drones
 email: contact@msadowski.ch
 description: Robotics and Drones consulting in Switzerland
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,3 +34,5 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+  exclude: ["CONTRIBUTING.md", "README.md", "LICENSE.md", "CNAME", ".gitignore"]

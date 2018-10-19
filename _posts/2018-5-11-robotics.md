@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Robotics
-description: Providing robotics consulting in Geneva and all around Europe
+title: Robotics in Switzerland
+description: Providing robotics consulting in Switzerland and all around Europe
 image: assets/images/falcon_code_large.png
 exclude: false
 ---
