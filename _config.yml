@@ -6,10 +6,10 @@ description: Robotics and Drones consulting in Switzerland
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Mateusz Sadowski
-address_header: Mateusz Sadowski, c/o Impact Hub Geneva
-street_address: 1 rue Fendt
-city: Geneva
-zip_code: 1201
+address_header: M. Sadowski Consulting
+street_address: Rue du Pré-de-la-Fontaine 15
+city: Satigny
+zip_code: 1242
 country: Switzerland
 # phone: (716) 555-5555
 
